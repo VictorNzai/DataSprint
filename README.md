@@ -1,5 +1,4 @@
 # DataSprint
-```markdown
 # Project README: Predicting Financial Status of Kenyan Adults
 
 ## 1. Problem Statement and Objectives
@@ -112,4 +111,4 @@ Based on SHAP values for the 'Worsened' class, the top predictors were:
 ## 8. Conclusion
 
 This project provides valuable insights into the drivers of financial deterioration among Kenyan adults. The Tuned XGBoost model, combined with SHAP interpretability, offers a data-driven foundation for developing targeted policies and interventions that aim to enhance financial resilience and foster inclusive economic growth in Kenya.
-```
+
